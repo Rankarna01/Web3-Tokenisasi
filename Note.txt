@@ -1,0 +1,3 @@
+Kakak/Abang Panitia saat mengunjungi Website jangan langsung melalui file index.html harus kunjingi file melalui codingan index.html di vs code nya
+Atau bisa kunjungi halaman berikut ini untuk review website kami
+""
